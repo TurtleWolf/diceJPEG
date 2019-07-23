@@ -1,0 +1,14 @@
+
+
+    ns1.hostinger.com - 31.170.163.241
+    ns2.hostinger.com - 31.220.23.1
+    ns3.hostinger.com - 173.192.183.247
+    ns4.hostinger.com - 31.170.164.249
+
+
+https://TurtleWolfe.com/
+
+chat socket.io with Dice
+	 CRUD
+July 1st, 2019 - Jan 1st, 2020
+6 apps in 6 monts
